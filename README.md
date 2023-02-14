@@ -3,7 +3,7 @@ Analyst with over 12 years of experience
 
 
 
-<img src="https://github.com/ArTimur/ArTimur/blob/main/baner.jpg" alt="banner">
+<img src="https://quasa.io/storage/images/news/3jKzGHWPJdpU3XM74WMCugOaAKGzs0W0cm33yTkz.webp" alt="banner" style="width: 700px">
 
 #### Languages and Tools :
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
