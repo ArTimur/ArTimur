@@ -1,17 +1,4 @@
-<style>
-table {
-  border: 1px grey solid;
-  
-}
-
-.round {
-  border-radius: 10px;
-}
-
-</style>
-
-<img src="https://quasa.io/storage/images/news/3jKzGHWPJdpU3XM74WMCugOaAKGzs0W0cm33yTkz.webp" alt="banner" class="round"
-  style="width: 700px">
+<img src="https://quasa.io/storage/images/news/3jKzGHWPJdpU3XM74WMCugOaAKGzs0W0cm33yTkz.webp" alt="banner" class="round" style="width: 700px;border-radius: 10px;">
 
 #### Languages and Tools :
 ![Microsoft
@@ -28,7 +15,7 @@ PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-t
 
 #### Here are some of my educational projects in Karpov. Courses:
 
-<table class="round">
+<table style="border-radius: 10px;border: 1px grey solid;">
   <tr>
     <th style="width: 115px">name</th>
     <th>description</th>
