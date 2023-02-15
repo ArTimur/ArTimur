@@ -3,11 +3,14 @@ Analyst with over 12 years of experience
 
 
 
-<img src="https://quasa.io/storage/images/news/3jKzGHWPJdpU3XM74WMCugOaAKGzs0W0cm33yTkz.webp" alt="banner" style="width: 700px">
+<img src="https://quasa.io/storage/images/news/3jKzGHWPJdpU3XM74WMCugOaAKGzs0W0cm33yTkz.webp" alt="banner"
+  style="width: 700px">
 
 #### Languages and Tools :
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft
+Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft
+PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
@@ -27,7 +30,10 @@ Analyst with over 12 years of experience
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 
+---
 #### Contacts
-<a href="mailto: mrtimmag@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/T_i_m_T_i_m)</a>
+<a
+  href="mailto: mrtimmag@gmail.com">![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
+<a
+  href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/T_i_m_T_i_m)</a>
