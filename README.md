@@ -1,4 +1,16 @@
-<img src="https://quasa.io/storage/images/news/3jKzGHWPJdpU3XM74WMCugOaAKGzs0W0cm33yTkz.webp" alt="banner"
+<style>
+table {
+  border: 1px grey solid;
+  
+}
+
+.round {
+  border-radius: 10px;
+}
+
+</style>
+
+<img src="https://quasa.io/storage/images/news/3jKzGHWPJdpU3XM74WMCugOaAKGzs0W0cm33yTkz.webp" alt="banner" class="round"
   style="width: 700px">
 
 #### Languages and Tools :
@@ -12,12 +24,34 @@ PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-t
 
 ![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=black)![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)![API](https://img.shields.io/badge/-API-white?style=for-the-badge&logo=API)![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-fff?style=for-the-badge&logo=Apache%20Airflow&logoColor=darkblue)
 
-![TABLEAU](https://img.shields.io/badge/Tableau-0000ff?style=for-the-badge&logo=Tableau&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![TABLEAU](https://img.shields.io/badge/Tableau-00A4EF?style=for-the-badge&logo=Tableau&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-#### some of my educational projects as part of training at Karpov.Courses:
-|name|description|stack|
-|----|-----------|-----|
-|[👆final project](https://github.com/ArTimur/DA_projects/blob/master/projects/final_project.ipynb)|Working with data calculating product metrics, conducting a/b testing, sql queries via API, defining functions, building diagrams|pandas, pandahouse, matplotlib.pyplot, scipy.stats, numpy, json|
+#### Here are some of my educational projects in Karpov. Courses:
+
+<table class="round">
+  <tr>
+    <th style="width: 115px">name</th>
+    <th>description</th>
+    <th>stack</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ArTimur/DA_projects/blob/master/projects/final_project.ipynb">👆 final project</a></td>
+    <td>Working with data, calculating product metrics, conducting a/b testing, sql queries via API, defining functions, building diagrams</td>
+    <td>pandas, pandahouse, matplotlib.pyplot, scipy.stats, numpy, json</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ArTimur/DA_projects/blob/master/projects/project_1.ipynb">👆 e-commerce project</a></td>
+    <td>Working with data, frequency analysis, cohort analysis, retention, RFM-analysis</td>
+    <td>pandas, datetime, seaborn, numpy</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ArTimur/DA_projects/blob/master/statistics/ttest.ipynb">👆 t-test</a></td>
+    <td>Data analysis, hypothesis generation, and A/B testing using the t-test. Stat output</td>
+    <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy.stats</td>
+  </tr>
+</table>
+
+
 
 ---
 #### Contacts
