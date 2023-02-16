@@ -17,7 +17,7 @@ PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-t
 
 <table style="border-radius: 10px;border: 1px grey solid;">
   <tr>
-    <th style="width: 115px">name</th>
+    <th style="width: 150px">name</th>
     <th>description</th>
     <th>stack</th>
   </tr>
@@ -27,14 +27,24 @@ PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-t
     <td>pandas, pandahouse, matplotlib.pyplot, scipy.stats, numpy, json</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/ArTimur/DA_projects/blob/master/projects/project_1.ipynb">👆 e-commerce project</a></td>
-    <td>Working with data, frequency analysis, cohort analysis, retention, RFM-analysis</td>
-    <td>pandas, datetime, seaborn, numpy</td>
+    <td><a href="https://github.com/ArTimur/DA_projects/blob/master/statistics/stat_output.ipynb">👆 statistical output</a></td>
+    <td>Finding outliers using confidence intervals</td>
+    <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy</td>
   </tr>
   <tr>
     <td><a href="https://github.com/ArTimur/DA_projects/blob/master/statistics/ttest.ipynb">👆 t-test</a></td>
     <td>Data analysis, hypothesis generation, and A/B testing using the t-test. Stat output</td>
     <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy.stats</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ArTimur/DA_projects/blob/master/statistics/anova.ipynb">👆 ANOVA</a></td>
+    <td>Data analysis, checking assumptions, hypothesis generation, and A/B testing using the ANOVA. Stat output</td>
+    <td>pandas, seaborn, numpy, matplotlib.pyplot, scipy.stats, pingouin, statsmodels</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/ArTimur/DA_projects/blob/master/API/API_VK_google_YanMetr.ipynb">👆 API</a></td>
+    <td>Working with API: googlesheets, VK, YaMetrica</td>
+    <td>pandas, requests, json, random, gspread, vk_api</td>
   </tr>
 </table>
 
